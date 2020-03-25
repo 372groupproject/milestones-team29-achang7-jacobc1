@@ -1,0 +1,13 @@
+Reference for Groovy
+
+Book: Groovy in Action, Second Edition, By Dierk KÃ¶nig, Paul King, Guillaume Laforge, Hamlet D'Arcy, CÃ©dric Champeau, Erik Pragt, and Jon Skeet
+
+Website: https://www.tutorialspoint.com/groovy/groovy_basic_syntax.htm
+
+Reference manual: https://groovy-lang.org/documentation.html
+
+Community: https://stackoverflow.com/
+
+Major project: https://github.com/grails/gant/blob/master/src/main/groovy/org/codehaus/gant/GantBinding.groovy
+
+Compiler: http://groovy-lang.org/download.html
