@@ -21,3 +21,11 @@ switch : p2_switch.groovy
 feature : p2_feature.groovy
 	groovyc p2_feature.groovy
 	groovy feature
+
+boolean : p3_boolean.groovy
+	groovyc p3_boolean.groovy
+	groovy p3_boolean
+
+.PHONY: clean
+clean:
+	rm *.class
