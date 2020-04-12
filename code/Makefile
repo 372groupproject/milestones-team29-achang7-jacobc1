@@ -46,6 +46,22 @@ maps : p3_maps.groovy
 	groovyc p3_maps.groovy
 	groovy p3_maps
 
+ranges : p3_range.groovy
+	groovyc p3_range.groovy
+	groovy p3_range
+
+ints : p3_int.groovy
+	groovyc p3_int.groovy
+	groovy p3_int
+
+float : p3_float.groovy
+	groovyc p3_float.groovy
+	groovy p3_float
+
+failures : p3_failures.groovy
+	groovyc p3_failures.groovy
+	groovy p3_failures
+
 .PHONY: clean
 clean:
 	rm *.class
