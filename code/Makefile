@@ -62,6 +62,10 @@ failures : p3_failures.groovy
 	groovyc p3_failures.groovy
 	groovy p3_failures
 
+program : p3_program.groovy
+	groovyc p3_program.groovy
+	groovy p3_program
+
 .PHONY: clean
 clean:
 	rm *.class
