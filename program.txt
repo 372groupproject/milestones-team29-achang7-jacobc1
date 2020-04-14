@@ -1,0 +1,10 @@
+For our project we will be implementing a game. Our program will be object
+oriented, focusing on the main Java aspects of Groovy, while also using 
+portions of Groovy including closure statements.
+The project should span a couple of class files and should be a a couple 
+hundred lines of code. Approximately 400 - 500.
+This will be a good demonstration of our programming language because Groovy is
+made to be run in the same environment (in place of) Java. However, Groovy 
+is supposed to allow for more flexibility than Java allows. Groovy is very 
+much an Object oriented language, and Game development can show very well how
+the language is written and what it is capable of.
