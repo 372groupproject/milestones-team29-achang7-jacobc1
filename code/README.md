@@ -128,3 +128,25 @@ The programs prompts the user for their key values, a and b, and checks that the
 The passed in message is then encrypted with this key and printed. 
 
 Invoke function by calling the makefile to compile: "make program"
+
+# Methods
+File: p4_methods.groovy
+
+Examples of how to define and call methods in Groovy using optional typing
+
+Invoke function by calling the makefile to compile: "make methods"
+
+# Classes
+File: p4_classes.groovy
+
+Examples of how to define classes and constructors, and how to make instance variables
+and call class methods. 
+
+Invoke function by calling the makefile to compile: "make classes"
+
+# Closures
+File: p4_closures.groovy
+
+Examples of how to define and use closures in Groovy
+
+Invoke function by calling the makefile to compile: "make closures"
