@@ -66,6 +66,10 @@ program : p3_program.groovy
 	groovyc p3_program.groovy
 	groovy p3_program
 
+classes : p4_classes.groovy
+	groovyc p4_classes.groovy
+	groovy p4_classes
+
 .PHONY: clean
 clean:
 	rm *.class
