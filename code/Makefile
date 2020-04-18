@@ -74,6 +74,10 @@ closures : p4_closures.groovy
 	groovyc p4_closures.groovy
 	groovy p4_closures
 
+methods : p4_methods.groovy
+	groovyc p4_methods.groovy
+	groovy p4_methods
+
 .PHONY: clean
 clean:
 	rm *.class
