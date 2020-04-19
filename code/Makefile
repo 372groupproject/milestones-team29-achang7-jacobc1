@@ -66,6 +66,18 @@ program : p3_program.groovy
 	groovyc p3_program.groovy
 	groovy p3_program
 
+classes : p4_classes.groovy
+	groovyc p4_classes.groovy
+	groovy p4_classes
+
+closures : p4_closures.groovy
+	groovyc p4_closures.groovy
+	groovy p4_closures
+
+methods : p4_methods.groovy
+	groovyc p4_methods.groovy
+	groovy p4_methods
+
 .PHONY: clean
 clean:
 	rm *.class
