@@ -78,6 +78,10 @@ methods : p4_methods.groovy
 	groovyc p4_methods.groovy
 	groovy p4_methods
 
+tictactoe : p4_tictactoe.groovy
+	groovyc p4_tictactoe.groovy
+	groovy p4_tictactoe
+
 .PHONY: clean
 clean:
 	rm *.class
