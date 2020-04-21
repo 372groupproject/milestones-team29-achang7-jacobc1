@@ -150,3 +150,11 @@ File: p4_closures.groovy
 Examples of how to define and use closures in Groovy
 
 Invoke function by calling the makefile to compile: "make closures"
+
+# TicTacToe
+File: p4_tictactoe.groovy
+
+Implements a simple game of TicTacToe, making use of Groovy's ability to make multiple class declarations
+in a single file. Shows off both static and instance methods.
+
+Invoke function by calling the makefile to compile: "make tictactoe"
