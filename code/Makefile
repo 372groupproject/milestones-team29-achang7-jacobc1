@@ -82,6 +82,10 @@ tictactoe : p4_tictactoe.groovy
 	groovyc p4_tictactoe.groovy
 	groovy p4_tictactoe
 
+threading : p5_threading.groovy
+	groovyc p5_threading.groovy
+	groovy threading
+
 .PHONY: clean
 clean:
 	rm *.class

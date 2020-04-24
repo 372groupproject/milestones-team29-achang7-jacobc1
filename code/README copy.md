@@ -158,3 +158,12 @@ Implements a simple game of TicTacToe, making use of Groovy's ability to make mu
 in a single file. Shows off both static and instance methods.
 
 Invoke function by calling the makefile to compile: "make tictactoe"
+
+
+# Threading
+File: p5_threading.groovy
+
+This file is simple example of how basic threading works. It would create a new thread and demostrate how two threads switch back and 
+forth. 
+
+Invoke function by calling the makefile to compile: "make threading"
